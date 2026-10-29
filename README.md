@@ -1,1 +1,12 @@
 # Taller-No.3-POO
+
+<img width="246" height="116" alt="imagen" src="https://github.com/user-attachments/assets/a6724f90-ea0a-4f87-80b4-cdf39f53e281" />
+
+Universidad Nacional de Colombia-Sede Medellín
+
+Actividades POO
+
+Daniel Alejandro Rincón Valencia
+
+Docente: Walter Hugo Arboleda Mazo
+
